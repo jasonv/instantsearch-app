@@ -3,7 +3,8 @@
   align-items: center;
   min-height: 50px;
   padding: 0.5rem 1rem;
-  color: #363636;
+  background-color: #363636;
+  color: #fff;
   margin-bottom: 1rem;
 }
 
